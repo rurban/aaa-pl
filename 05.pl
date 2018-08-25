@@ -4,4 +4,4 @@ my ($aﾠ,$a,$aﾠﾠ) = (1,2,3);
 if($aﾠ==1 && $a== 2 && $aﾠﾠ==3) {
     print "Just A Perl Hacker\n";
 }
-
+# Note: This problem is caught by cperl
